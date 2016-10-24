@@ -2,6 +2,6 @@
 
 phpinfo();
 
-die();
+die("test die message");
 
 ?>
